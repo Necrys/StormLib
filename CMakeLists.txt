@@ -1,7 +1,7 @@
 project(StormLib)
 cmake_minimum_required(VERSION 2.8.12)
 
-set(LIBRARY_NAME storm)
+set(LIBRARY_NAME stormlib)
 
 include(CMakeDependentOption)
 
